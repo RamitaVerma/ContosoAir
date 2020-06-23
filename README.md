@@ -1,5 +1,4 @@
 [![Build Status](https://dev.azure.com/ramitaverma0829/PartsUnlimited/_apis/build/status/RamitaVerma.ContosoAir?branchName=master)](https://dev.azure.com/ramitaverma0829/PartsUnlimited/_build/latest?definitionId=4&branchName=master)
-
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
